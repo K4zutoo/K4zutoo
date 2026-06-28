@@ -90,8 +90,6 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=V3rtaa&bg_color=0d0d0d&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=333333&hide_border=false&border_color=2a2a2a&title_color=FFFFFF)](https://github.com/Prata-del)
 </div>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" /> Contribution Graph
-![Snake](https://raw.githubusercontent.com/V3rtaa/output/dist/github-snake-dark.svg)
 
 <br/>
 
