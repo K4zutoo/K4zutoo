@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=30&pause=1000&color=FFFFFF&width=435&lines=+Software+Enginering+in+training;The+world+is+yours." alt="Typing SVG" /></a>
 </div>
@@ -86,28 +83,11 @@
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=V3rtaa&bg_color=0d0d0d&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=333333&hide_border=false&border_color=2a2a2a&title_color=FFFFFF)](https://github.com/K4zutoo)
-
-</div>
-
  
 </div>
-<br/><br/>
 
 <!-- ====== FOOTER ====== -->
 <p align="center">
   <i>“Code, learn, repeat.”</i>
 </p>
-<!--
-**K4zutoo/K4zutoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
