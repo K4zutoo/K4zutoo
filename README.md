@@ -77,9 +77,7 @@
 
 <img src="https://streak-stats.demolab.com?user=V3rtaa&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF" alt="streak"/>
 
-<br/>
-
-</div>
+<br/><br>
 
 ---
 
@@ -87,15 +85,16 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=V3rtaa&bg_color=0d0d0d&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=333333&hide_border=false&border_color=2a2a2a&title_color=FFFFFF)]([https://github.com/V3rtaa](https://github.com/K4zutoo))
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=V3rtaa&bg_color=0d0d0d&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=333333&hide_border=false&border_color=2a2a2a&title_color=FFFFFF)](https://github.com/K4zutoo)
+
 </div>
 
  
 </div>
-<br/>
+<br/><br/>
 
 <!-- ====== FOOTER ====== -->
-<p align=\"center\">
+<p align="center">
   <i>“Code, learn, repeat.”</i>
 </p>
 <!--
