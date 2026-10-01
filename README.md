@@ -20,7 +20,7 @@
 <div style="background-color:#111; padding:20px 25px; border-radius:12px;">
 
 <pre>
-◈  Class     →  Software Enginering
+◈  Class     →  Cyber Security
 ◈  Origin    →  Indonesia
 </pre>
 
